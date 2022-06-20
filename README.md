@@ -105,7 +105,7 @@ Good Luck!
 
 <div>
 <div>
-<a href="https://www.linkedin.com/company/vignold/">
+<a href="https://www.linkedin.com/company/vignold-tech/">
   <img src="./etc/content/icon-linkedin.svg"/></a>
 </div>
 <div>
@@ -114,7 +114,7 @@ Good Luck!
 </div>
 <div>
 <a href="https://vignold-tech.de/">
-  <img src="https://vignold-group.com/wp-content/uploads/2021/07/V_MARKETING_Logo_07_05_Zeichenfla%CC%88che-1.png" width="150" height="60"/></a>
+  <img src="./etc/content/V_TECH_Logo.png" width="180" height="60"/></a>
 </div>
 </div>
 
